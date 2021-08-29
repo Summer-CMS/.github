@@ -1,4 +1,6 @@
-# Welcome to Summer CMS
+<h1 align="center">Welcome to Summer CMS</h1>
+
+<br>
 
 <p align="center"><img src="https://github.com/Summer-CMS/Welcome/blob/master/assets/images/summer-cms.gif"></p>
 
