@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Summer CMS</h1>
+<h1 align="center">🌞 Welcome to Summer CMS</h1>
 
 <h3>What is Summer CMS ?</h3>
 
