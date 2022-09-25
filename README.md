@@ -9,7 +9,7 @@
 * **New Users** - Best to check out the welcome, ecosystem and documentation sections to get started.
 * **Investor Relations** - Contact us via our website for access to the private repo's.
 * **Summer CMS Staff** - Do not add files to this repo, this is a temporary repo and will be deleted in the near future. There is a fixed welcome repo set to private.
-* **Developers Looking To Join The Team** - Check out the Jobs section.
+* **Developers Looking To Join The Team** - Check out the jobs section.
 
 <hr/>
 
