@@ -6,6 +6,11 @@
   <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/commits.png"/>
 </p>
 
+* **New Users** - Best to check out the welcome, ecosystem and documentation sections to get started.
+* **Investor Relations"" - Contact us via our website for access to the private repo's.
+* **Summer CMS Staff** - Do not add files to this repo, this is a tempary repo and will be deleted in the near future. There is a fixed welcome repo set to private.
+* **Developers Looking to join the team** - Check out the Jobs section.
+
 <hr/>
 
 <h3>What is Summer CMS ?</h3>
