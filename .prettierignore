@@ -1,7 +1,0 @@
-.cache/
-.github/workflows/
-.tmp
-/node_modules/
-/vendors/
-coverage/
-dist/
