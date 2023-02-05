@@ -1,4 +1,6 @@
-<h1 align="center">🌞 Welcome to Summer CMS <img src="/assets/images/check.png" height="24" alt="summer cms" /></h1>
+<h3 align="center">👋 Welcome, Bienvenido, 欢迎, 歡迎, Bienvenue, ようこそ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо, Bem-vindo, வணக்கம்</h2>
+
+<h2 align="center">🌞 Welcome to Summer CMS <img src="/assets/images/check.png" height="24" alt="summer cms" /></h1>
 
 > Please note all the Summer CMS repo's are currently set to `private` as they are still being heavily developed behind the scene and not yet ready for public use! When Summer CMS is ready for a candidate release the repo's will be switched over to `public` for testing and contributions. See below the number of contributions one of our team members Ayumi has added to the Summer CMS project in the last year.
 
